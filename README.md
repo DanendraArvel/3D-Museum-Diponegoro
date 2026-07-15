@@ -13,5 +13,5 @@ I Made a Diponegoro Museum using Blender. Diponegoro is one of Indonesia's Natio
 ## WARN!!
 This 3D assets is no optimized
 ## See it Now!
- **[View More]([https://danendra-arvel.itch.io/3d-capsule-war](https://drive.google.com/drive/folders/1b7VdC3YsJpvptOXdviV5FZHH0eyzJOJ0?usp=sharing))**
+ **[View More](https://drive.google.com/drive/folders/1b7VdC3YsJpvptOXdviV5FZHH0eyzJOJ0?usp=sharing)**
 
